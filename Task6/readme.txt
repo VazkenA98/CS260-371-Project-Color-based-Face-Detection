@@ -1,0 +1,2 @@
+
+We applied mean filter with radius = 5 and after that we wrote a plugin to extrtact pixel of each 5X5 matrix and assign to corresponding pixel in small image. After that we applied skeletonized method from task 5 and we had an image. from the image we can see that after changing the resoultion of the image we had better results when we applied skeletonized method. we can see that face boundries are more clear and has better results (no noises) than pervious one (higher resolution image)
